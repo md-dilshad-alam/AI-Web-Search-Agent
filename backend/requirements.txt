@@ -7,3 +7,5 @@ langchain-community
 google-search-results
 
 uvicorn
+
+fastapi
